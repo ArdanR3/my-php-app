@@ -1,7 +1,7 @@
 <?php
 $serverName = "ARDANRIZQI3\SQLEXPRESS";
 $connectionOptions = [
-    "Database" => "Percobaanr",
+    "Database" => "Percobaanra",
     "TrustServerCertificate" => true,
 ];
 $conn = sqlsrv_connect($serverName, $connectionOptions);
